@@ -1,0 +1,9 @@
+C:\Users\Ghost\Documents\Visual Studio 2010\Projects\WiFiPass\WiFiPass\bin\Release\WiFiPass.exe
+C:\Users\Ghost\Documents\Visual Studio 2010\Projects\WiFiPass\WiFiPass\bin\Release\WiFiPass.pdb
+C:\Users\Ghost\Documents\Visual Studio 2010\Projects\WiFiPass\WiFiPass\bin\Release\WiFiPass.xml
+C:\Users\Ghost\Documents\Visual Studio 2010\Projects\WiFiPass\WiFiPass\obj\x86\Release\WindowsApplication1.FrmWIFI.resources
+C:\Users\Ghost\Documents\Visual Studio 2010\Projects\WiFiPass\WiFiPass\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Ghost\Documents\Visual Studio 2010\Projects\WiFiPass\WiFiPass\obj\x86\Release\WiFiPass.vbproj.GenerateResource.Cache
+C:\Users\Ghost\Documents\Visual Studio 2010\Projects\WiFiPass\WiFiPass\obj\x86\Release\WiFiPass.exe
+C:\Users\Ghost\Documents\Visual Studio 2010\Projects\WiFiPass\WiFiPass\obj\x86\Release\WiFiPass.xml
+C:\Users\Ghost\Documents\Visual Studio 2010\Projects\WiFiPass\WiFiPass\obj\x86\Release\WiFiPass.pdb
